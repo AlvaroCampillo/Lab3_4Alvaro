@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72136755476",
+    "project_id": "lab3-90d91",
+    "storage_bucket": "lab3-90d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72136755476:android:8ae67279ca7dd93342da01",
+        "android_client_info": {
+          "package_name": "com.alvaro.alvarolab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72136755476-34qaajid77q76t3ogd907krp2gh51t7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhT5OfHYW49A-ap9x4ERT4Ie7WDKQDR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72136755476-34qaajid77q76t3ogd907krp2gh51t7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
